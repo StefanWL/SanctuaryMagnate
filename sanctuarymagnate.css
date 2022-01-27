@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    color: rgb(122, 250, 79);
+    font-size: 18pt;
+    font-family:'Courier New', Courier, monospace;
+}
+input {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18pt;
+    width: 80%;
+    background-color: black;
+    color: rgb(122, 250, 79);
+    border: none;
+    caret-color: rgb(122, 250, 79);
+}
+input:focus {
+    outline: none;
+}
+button {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18pt;
+    color: black;
+    background-color: rgb(122, 250, 79);
+    border: none;
+    border-radius: 0;
+    padding: 0.25em;
+    cursor: pointer;
+}
+button:hover {
+    background-color: green;
+}
+table {
+    margin-top: 1em;
+}
+th {
+    text-align: left;
+}
+td {
+    padding-right: 1em;
+}
+.flex-container{
+    display: flex;
+}
+.flex-item{
+    flex: 1 0 0;
+    display: block;
+}
+.hidden {
+    display: none;
+}
