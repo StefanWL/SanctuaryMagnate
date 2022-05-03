@@ -1,5 +1,5 @@
 # SanctuaryMagnate
-Live site available at:
+Live site available at: https://sanctuarymagnate.000webhostapp.com
 
 This is a simple game written inside of a MySQL database.
 Scripts for simulating visitors, zoo operations, user controls and enforcing rules are written using MySQL procedures.
