@@ -39,7 +39,7 @@ nextWeek()
 
 - Advances the week. Simulates if each guest would like to come to the park this week. Simulates disease. Deducts costs.
 
-#Animals
+# Animals
 List of available animals:
 - Lion
 - Elephant
